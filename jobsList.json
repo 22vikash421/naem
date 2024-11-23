@@ -1,0 +1,212 @@
+{
+    "jobs": [
+      {
+        "company": {
+          "name": "IT Infosys Co.",
+          "posted": "2 days ago",
+          "logo": "./image/web_developer.png"
+        },
+        "details": {
+          "title": "Senior Web Developer",
+          "location": {
+            "city": "Jaipur",
+            "country": "India"
+          },
+          "tags": {
+            "salary": "10k - 25k",
+            "employmentType": "part-time",
+            "shift": "day shift"
+          }
+        },
+        "actions": {
+          "viewDetailsLink": "view_job.html",
+          "favorite": false
+        }
+      },
+      {
+        "company": {
+          "name": "Tech Solutions Ltd.",
+          "posted": "3 days ago",
+          "logo": "./image/software_engineer.png"
+        },
+        "details": {
+          "title": "Software Engineer",
+          "location": {
+            "city": "Delhi",
+            "country": "India"
+          },
+          "tags": {
+            "salary": "15k - 30k",
+            "employmentType": "full-time",
+            "shift": "night shift"
+          }
+        },
+        "actions": {
+          "viewDetailsLink": "view_job.html",
+          "favorite": false
+        }
+      },
+      {
+        "company": {
+          "name": "Code Masters Pvt. Ltd.",
+          "posted": "1 week ago",
+          "logo": "./image/data_scientist.png"
+        },
+        "details": {
+          "title": "Data Scientist",
+          "location": {
+            "city": "Gurugram",
+            "country": "India"
+          },
+          "tags": {
+            "salary": "20k - 40k",
+            "employmentType": "contract",
+            "shift": "day shift"
+          }
+        },
+        "actions": {
+          "viewDetailsLink": "view_job.html",
+          "favorite": false
+        }
+      },
+      {
+        "company": {
+          "name": "NextGen IT Hub",
+          "posted": "5 days ago",
+          "logo": "./image/devops_engineer.png"
+        },
+        "details": {
+          "title": "DevOps Engineer",
+          "location": {
+            "city": "Hyderabad",
+            "country": "India"
+          },
+          "tags": {
+            "salary": "25k - 50k",
+            "employmentType": "full-time",
+            "shift": "day shift"
+          }
+        },
+        "actions": {
+          "viewDetailsLink": "view_job.html",
+          "favorite": false
+        }
+      },
+      {
+        "company": {
+          "name": "TechWorks Inc.",
+          "posted": "4 days ago",
+          "logo": "./image/ui_ux_designer.png"
+        },
+        "details": {
+          "title": "UI/UX Designer",
+          "location": {
+            "city": "Lucknow",
+            "country": "India"
+          },
+          "tags": {
+            "salary": "12k - 25k",
+            "employmentType": "freelance",
+            "shift": "flexible"
+          }
+        },
+        "actions": {
+          "viewDetailsLink": "view_job.html",
+          "favorite": false
+        }
+      },
+      {
+        "company": {
+          "name": "Creative Coders",
+          "posted": "6 days ago",
+          "logo": "./image/project_manager.png"
+        },
+        "details": {
+          "title": "Project Manager",
+          "location": {
+            "city": "Rajasthan",
+            "country": "India"
+          },
+          "tags": {
+            "salary": "30k - 60k",
+            "employmentType": "full-time",
+            "shift": "day shift"
+          }
+        },
+        "actions": {
+          "viewDetailsLink": "view_job.html",
+          "favorite": false
+        }
+      },
+      {
+        "company": {
+          "name": "Infinity Tech.",
+          "posted": "1 day ago",
+          "logo": "./image/android_developer.png"
+        },
+        "details": {
+          "title": "Android Developer",
+          "location": {
+            "city": "Mumbai",
+            "country": "India"
+          },
+          "tags": {
+            "salary": "18k - 35k",
+            "employmentType": "internship",
+            "shift": "day shift"
+          }
+        },
+        "actions": {
+          "viewDetailsLink": "view_job.html",
+          "favorite": false
+        }
+      },
+      {
+        "company": {
+          "name": "TechWorld Innovations",
+          "posted": "3 days ago",
+          "logo": "./image/qa_tester.png"
+        },
+        "details": {
+          "title": "QA Tester",
+          "location": {
+            "city": "Bangalore",
+            "country": "India"
+          },
+          "tags": {
+            "salary": "10k - 20k",
+            "employmentType": "part-time",
+            "shift": "night shift"
+          }
+        },
+        "actions": {
+          "viewDetailsLink": "view_job.html",
+          "favorite": false
+        }
+      },
+      {
+        "company": {
+          "name": "Kolkata IT Solutions",
+          "posted": "7 days ago",
+          "logo": "./image/network_engineer.png"
+        },
+        "details": {
+          "title": "Network Engineer",
+          "location": {
+            "city": "Kolkata",
+            "country": "India"
+          },
+          "tags": {
+            "salary": "15k - 25k",
+            "employmentType": "contract",
+            "shift": "day shift"
+          }
+        },
+        "actions": {
+          "viewDetailsLink": "view_job.html",
+          "favorite": false
+        }
+      }
+    ]
+  }
+  
